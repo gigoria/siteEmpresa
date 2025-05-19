@@ -26,7 +26,7 @@ Criação do site para empresa
 </style>
 
 <body>
-    <footer class="footer">
+    <footer>
         <p>&copy; 2025 Nocnil - Sistema logístico. Todos os direitos reservados.</p>
     </footer>
 </body>
