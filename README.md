@@ -8,14 +8,9 @@ Criação do site para empresa
     <title>Footer site - Nocnil</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <footer class="footer">
-        <p>&copy; 2025 Nocnil - Sistema logístico. Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
 
-.footer {
+<style>
+    .footer {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -28,3 +23,11 @@ Criação do site para empresa
     box-shadow: 0 -2px 5px rgb(40, 40, 40);
     z-index: 1000;
 }
+</style>
+
+<body>
+    <footer class="footer">
+        <p>&copy; 2025 Nocnil - Sistema logístico. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
